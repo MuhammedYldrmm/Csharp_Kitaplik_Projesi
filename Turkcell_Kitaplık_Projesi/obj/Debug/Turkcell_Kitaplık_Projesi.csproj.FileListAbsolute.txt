@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\bin\Debug\Turkcell_Kitaplık_Projesi.exe.config
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\bin\Debug\Turkcell_Kitaplık_Projesi.exe
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\bin\Debug\Turkcell_Kitaplık_Projesi.pdb
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.exe
+C:\Users\HP\Desktop\Turkcell_Kitaplık_Projesi\obj\Debug\Turkcell_Kitaplık_Projesi.pdb
